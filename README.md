@@ -1,3 +1,4 @@
+![logo](https://github.com/a-k-solomon/a-k-solomon/blob/main/gi.jfif)
 <h1 align="center">Hi 👋, I'm Solomon</h1>
 <h3 align="center">A passionate of Big Data & Artificial Intelligence</h3>
 
