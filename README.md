@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg">
 
 
-- 💬 Ask me about **Big Data**
+- 💬 Ask me about **Data Science & Big Data**
 
 - 📫 How to reach me **ak.salomon21@gmail.com**
 
