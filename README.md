@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Solomon</h1>
-<h3 align="center">A passionate of Big Data & Artificial Intelligence</h3>
+<h3 align="center">A passionate of Big Data & Artificial Intelligence and Web Development</h3>
 
 <img align="right" alt="" width="400" src="">
 
