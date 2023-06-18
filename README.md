@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Solomon</h1>
 <h3 align="center">A passionate of Big Data & Artificial Intelligence</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg">
+<img align="right" alt="coding" width="400" src="">
 
 
 - 💬 Ask me about **Data Science & Big Data & Web Development**
