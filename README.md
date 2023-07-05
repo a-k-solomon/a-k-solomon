@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Solomon</h1>
 <h3 align="center">A passionate of Big Data & Artificial Intelligence and Web Development</h3>
 
- <img align="right" alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=a-k-solomon&show_icons=true&theme=radical">
+ <img align="right" alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=anuraghazra">
+
 
 
 - 💬 Ask me about **Data Science & Big Data & Web Development**
