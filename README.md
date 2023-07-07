@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Solomon</h1>
+<h1 align="center">Hi 👋, I'm solomon</h1>
 <h3 align="center">I'm into Big Data, Artificial Intelligence & Web Development</h3>
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 👯 I’m looking to collaborate on **Machine Learning & Deep Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning & Deep Learning**
 
 - 📫 How to reach me **ak.salomon21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ksa21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ksa21" height="30" width="40" /></a>
+<a href="https://hashnode.com/aksalomon21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="aksalomon21" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ak_salomon21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ak_salomon21" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/ak_salomon21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/ak_salomon21" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/ak_salomon21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ak_salomon21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
