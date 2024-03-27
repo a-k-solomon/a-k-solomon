@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm solomon</h1>
 <h3 align="center">I'm into Big Data, Artificial Intelligence & Web Development</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native & Flutter**
 
 - 👯 I’m looking to collaborate on **Machine Learning & Deep Learning**
 
