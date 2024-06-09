@@ -1,4 +1,4 @@
-<h3 align="left">Connect with me:</h3>
+## Hi and welcome. This the place where i display things i have learn and also some projects i'm working on.
 <p align="left">
 <a href="https://linkedin.com/in/ksa21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksa21" height="30" width="40" /></a>
 </p>
